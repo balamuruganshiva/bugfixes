@@ -1,0 +1,18 @@
+  INC0079869 - VDI gets freeze whenever we attend/conduct meetings/calls in Teams.
+​[19:36] Tijo George
+    
+
+After logging into vdiblue.bluecrossma.com server:
+
+You should see your Pool icons.
+
+Right Click the Pool you are trying to connect to.
+
+Drop Down Menu
+
+Switch from PCoIP To VMBlast
+
+Or
+
+Switch from VMBlast to PCoIP.
+
